@@ -1,18 +1,5 @@
-# Avoid accidental upload of the Sketch and Figma design files
-#####################################################
-## Please do not remove lines 5 and 6 - thanks! 🙂 ##
-#####################################################
-*.sketch
-*.fig
-
-# Avoid accidental XD upload if you convert the design file
-###############################################
-## Please do not remove line 12 - thanks! 🙂 ##
-###############################################
-*.xd
-
-# Avoid your project being littered with annoying .DS_Store files!
-.DS_Store
-.prettierignore
-
-.idea
+.idea/
+node_modules/
+# 컴파일된 .css 와 .map 파일은 업로드 제외
+*.css
+*.map
