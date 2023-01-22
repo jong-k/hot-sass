@@ -67,12 +67,16 @@ $colors: (main: #521751, secondary: #fa923f);
 ```
 
 ## 4. 빌트인 함수
-- lighten : 밝기를 조절
+### 4.1. color functions
+- lighten, darken : 밝기(휘도)를 조절
 - 예시
 
 ```scss
 background: lighten(#fae5ff, 90%);
 ```
+
+- saturate, desaturate : 채도 변경
+- opacify
 
 ## 5. 연산
 - 변수에 기본적인 연산이 가능하다
