@@ -1,0 +1,6 @@
+@use "./styles/index";
+@use "./styles/variables" as v;
+
+h1 {
+  font-size: v.$text-3xl;
+}
