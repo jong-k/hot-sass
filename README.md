@@ -5,7 +5,7 @@
 - test.html
 - test.scss 는 /styles 와 연결됨
 
-## 1. tutorial
+## 1. [tutorial](https://github.com/jong-k/hot-sass/tree/main/notes)
 - SCSS에 대해 공부한 내용을 정리
 
 ## 2. my design system
