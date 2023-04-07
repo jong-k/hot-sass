@@ -5,8 +5,8 @@
 - test.html
 - test.scss 는 /styles 와 연결됨
 
-## 1. tutorial [링크]()
+## 1. tutorial
 - SCSS에 대해 공부한 내용을 정리
 
-## 2. my design system [링크]()
+## 2. my design system
 - 변수, 믹스인 등
